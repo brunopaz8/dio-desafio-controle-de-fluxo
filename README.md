@@ -32,13 +32,13 @@ Este repositório contém um pequeno projeto em Java que simula um contador num�
 1️⃣ **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/brunopaz8/dio-desafio-controle-de-fluxo.git
 ```
 
 2️⃣ **Navegue até o diretório do projeto:**
 
 ```bash
-cd nome-do-repositorio
+cd dio-desafio-controle-de-fluxo
 ```
 
 3️⃣ **Compile os arquivos Java:**
