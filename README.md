@@ -32,8 +32,8 @@ Este repositório contém um pequeno projeto em Java que simula um contador num�
 dio-desafio-controle-de-fluxo/
 ├── src/
 │   ├── handler/
-│       └── ParametrosInvalidosException.java
-│   ├── Contador.java
+│   │    └── ParametrosInvalidosException.java
+│   └── Contador.java
 ├── .gitignore
 └── README.md
 ```
