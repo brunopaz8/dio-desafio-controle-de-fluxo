@@ -1,13 +1,14 @@
-# 🔢 Desafio de Contador em Java
+# 📚 Desafio de Contador em Java 🔢
 
 Este projeto foi desenvolvido como parte de um desafio de código proposto pela DIO (Digital Innovation One), com o objetivo de praticar e testar conhecimentos sobre controle de fluxo em Java.
+
+---
 
 ## 💡 Proposta
 
 Este repositório contém um pequeno projeto em Java que simula um contador numérico baseado em parâmetros informados pelo usuário.
 
-###
-
+---
 
 ## 🛠️ Tecnologias
 
@@ -15,17 +16,29 @@ Este repositório contém um pequeno projeto em Java que simula um contador num�
   - Programação orientada a objetos(POO)
   - Tratamento de exceções
 
-## 🧠 Funcionalidades
+---
+
+## 🔧 Funcionalidades
 
 * O programa solicita dois números inteiros.
 * Se o primeiro número for **maior que o segundo**, uma exceção personalizada (`ParametrosInvalidosException`) é lançada.
 * Caso contrário, o programa **conta do primeiro número até o segundo**, exibindo os números no console.
 
+---
+
 ## 📂 Estrutura
 
-* `Contador.java`: Contém a lógica principal do programa, incluindo leitura de dados e controle de fluxo.
-* `ParametrosInvalidosException.java`: Exceção personalizada para tratamento de parâmetros inválidos.
+```
+dio-desafio-controle-de-fluxo/
+├── src/
+│   ├── handler/
+│       └── ParametrosInvalidosException.java
+│   ├── 
+├── .gitignore
+└── README.md
+```
 
+---
 
 ## 🚀 Como Executar o Projeto
 
